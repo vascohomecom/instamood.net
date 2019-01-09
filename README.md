@@ -1,2 +1,1 @@
-# instamood.net
-instamood.net
+https://instamood.net/
